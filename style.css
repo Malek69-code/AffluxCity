@@ -1,0 +1,36 @@
+html{
+    background-color: #353F89;
+}
+.header {
+    height: 35px;
+    padding: 20px 20px 0;
+    background:#E3D98B;
+}
+h1,h2{
+    text-align: center;
+    color: #E3AB6B;
+    height: 5vh;
+    padding: 20px;
+}
+p{
+    font-style: italic;
+    color: whitesmoke;
+    font-size: larger;
+}
+a{
+    color:#353F89;
+}
+footer  {
+    padding: 10px 20px;
+    background: #E3D98B;
+}
+footer p{
+    color: #353F89;
+    text-align: center;
+}
+ul{
+    color: #E3D98B;
+}
+
+
+
